@@ -1,0 +1,6 @@
+---
+default:
+  name: rs-dinstall
+  summary: RangeStack dist install (libaray/shabang dep resolv copy)
+  version: '1.0.0'
+  release: 1
