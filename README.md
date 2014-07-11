@@ -8,6 +8,7 @@
 
 
 * sample usage.
+
 <pre>
 # dinstall -l -D /home/yuting/i/t -a /usr/local/bin/fornode.pl
 </pre>
@@ -26,12 +27,6 @@ t/usr/local/lib/perl5/5.8.9
 t/usr/local/lib/perl5/5.8.9/x86_64-linux
 t/usr/local/lib/perl5/5.8.9/x86_64-linux/CORE
 t/usr/local/lib/perl5/5.8.9/x86_64-linux/CORE/libperl.so
-t/bin
-t/bin/sh
-t/bin/dash
-t/etc
-t/etc/init.d
-t/etc/init.d/cron
 t/lib
 t/lib/x86_64-linux-gnu
 t/lib/x86_64-linux-gnu/libc-2.15.so
@@ -41,11 +36,8 @@ t/lib/x86_64-linux-gnu/libm.so.6
 t/lib/x86_64-linux-gnu/libdl.so.2
 t/lib/x86_64-linux-gnu/ld-2.15.so
 t/lib/x86_64-linux-gnu/libdl-2.15.so
-t/lib/init
-t/lib/init/upstart-job
 t/lib64
 t/lib64/ld-linux-x86-64.so.2
-
 
 </pre>
   
