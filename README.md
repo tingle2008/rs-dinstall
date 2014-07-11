@@ -8,10 +8,11 @@
 
 
 * 简单用法
-
+<pre>
  dinstall -l -D /home/yuting/i/t -a /usr/local/bin/fornode.pl
+</pre>
 
-
+<pre>
 # find t
 t
 t/usr
@@ -46,5 +47,5 @@ t/lib64
 t/lib64/ld-linux-x86-64.so.2
 
 
-
+</pre>
   
