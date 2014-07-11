@@ -9,7 +9,7 @@
 
 * 简单用法
 <pre>
- dinstall -l -D /home/yuting/i/t -a /usr/local/bin/fornode.pl
+# dinstall -l -D /home/yuting/i/t -a /usr/local/bin/fornode.pl
 </pre>
 
 <pre>
