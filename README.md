@@ -7,7 +7,7 @@
 依赖的库.
 
 
-* 简单用法
+* sample usage.
 <pre>
 # dinstall -l -D /home/yuting/i/t -a /usr/local/bin/fornode.pl
 </pre>
