@@ -11,9 +11,6 @@
 
 <pre>
 # dinstall -l -D /home/yuting/i/t -a /usr/local/bin/fornode.pl
-</pre>
-
-<pre>
 # find t
 t
 t/usr
